@@ -1,0 +1,4 @@
+<Solution>
+    <Project Path="Dr.Core/Dr.Core.csproj" />
+    <Project Path="Dr.Server/Dr.Server.csproj" />
+</Solution>

@@ -1,0 +1,75 @@
+﻿# ==========================================
+# .NET & Build Artifacts
+# ==========================================
+[Bb]in/
+[Oo]bj/
+[Pp]ackages/
+_UpgradeReport_Files/
+
+# Build and Publish Artifacts
+*.nupkg
+*.snupkg
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temporary files
+.vs/
+
+# Test Results & Code Coverage
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+*.dotCover
+
+# ==========================================
+# JetBrains Rider & ReSharper
+# ==========================================
+# ReSharper / Rider personal settings
+*.DotSettings.user
+
+# IntelliJ Platform excludes - User Specific
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/
+**/.idea/dictionaries/
+**/.idea/httpRequests/
+
+# Sensitive or high-churn database settings
+**/.idea/**/dataSources/
+**/.idea/**/dataSources.ids
+**/.idea/**/dataSources.xml
+**/.idea/**/dataSources.local.xml
+**/.idea/**/sqlDataSources.xml
+**/.idea/**/dynamic.xml
+
+# Auto-generated project models
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
+
+# ==========================================
+# Logs & Temporary Files
+# ==========================================
+*.log
+logs/
+*.tmp
+
+# ==========================================
+# OS-Specific Garbage
+# ==========================================
+# Windows
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
